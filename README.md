@@ -9,6 +9,7 @@ git clone https://github.com/noorkhokhar99/yolov7-object-blurring.git
 ```
 cd yolov7-object-blurring
 
+```
 - Upgrade pip with mentioned command below.
 ```
 pip install --upgrade pip
