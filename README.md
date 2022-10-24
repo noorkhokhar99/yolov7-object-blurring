@@ -35,6 +35,8 @@ python detect_and_blur.py --weights yolov7.pt --source "your video.mp4" -classes
 ### Results
 
 
+<img src="https://github.com/noorkhokhar99/yolov5-object-tracking/blob/main/Screen%20Shot%201444-03-27%20at%2011.49.29%20PM.png">
+
 
 
 
